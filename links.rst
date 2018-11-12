@@ -10,6 +10,7 @@
 
 - C++ faqs
     http://www.stroustrup.com/bs_faq.html
+    https://isocpp.org/
 
 - Bash faqs
     http://mywiki.wooledge.org/BashFAQ
