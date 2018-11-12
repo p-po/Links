@@ -43,3 +43,6 @@
 
 - Linkers & loaders
     https://www.iecc.com/linker/
+    
+- Design patterns
+    https://sourcemaking.com/design_patterns
