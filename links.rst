@@ -11,6 +11,8 @@
 - C++ faqs
     http://www.stroustrup.com/bs_faq.html
     
+    http://bin-login.name/ftp/pub/docs/programming_languages/cpp/cffective_cpp/EC/INDEX.HTM
+    
     https://isocpp.org/
 
 - Bash faqs
